@@ -1,0 +1,36 @@
+
+.page_buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px;
+}
+
+.page_buttons .normal_btn {
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all .1s;
+}
+
+.normal_btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.page_buttons .link_btn {
+    background-color: inherit;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all .1s;
+}
+
+.page_buttons button:active {
+    scale: 0.95;
+}
