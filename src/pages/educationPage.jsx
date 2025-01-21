@@ -20,6 +20,10 @@ const EducationPage = () => {
             <button>
                 <Link to='/skills_section'>NEXT</Link>
             </button>
+
+            <div className="makeStyles-footer-15">
+                <div className="MuiButton-contained"></div>
+            </div>
         </div>
     )
 }
