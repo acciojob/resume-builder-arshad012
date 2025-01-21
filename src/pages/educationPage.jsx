@@ -14,7 +14,7 @@ const EducationPage = () => {
 
             <input type="text" name='courseName' />
             <input type="text" name='completionYear' />
-            <input type="text" name='collegeSchool' />
+            <input type="text" name='college' />
             <input type="text" name='percentage' />
 
             <button>
