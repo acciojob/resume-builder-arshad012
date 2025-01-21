@@ -1,5 +1,5 @@
 import React from "react";
-import './../styles/App.css';
+// import './../styles/App.css';
 import { Provider } from 'react-redux';
 import {HashRouter} from 'react-router-dom';
 

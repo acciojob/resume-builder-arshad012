@@ -22,7 +22,10 @@ const EducationPage = () => {
             </button>
 
             <div className="makeStyles-footer-15">
-                <div className="MuiButton-contained"></div>
+                <div className="MuiButton-contained">
+                    <button>DELETE</button>
+                    <button>ADD EDUCATION</button>
+                </div>
             </div>
         </div>
     )
