@@ -24,6 +24,8 @@ const EducationPage = () => {
             <div className="makeStyles-footer-15">
                 <div className="MuiButton-contained">
                     <button>DELETE</button>
+                </div>
+                <div className="div makeStyles-instance-16">
                     <button>ADD EDUCATION</button>
                 </div>
             </div>

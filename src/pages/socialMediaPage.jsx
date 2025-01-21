@@ -8,9 +8,7 @@ const SocialMediaPage = () => {
 
             <input type="text" name="Social" />
 
-            <button id="next" class="qaf3t2qAXS8ibS7m7tvwI">...</button>
-            
-            <button>
+            <button id="next" class="qaf3t2qAXS8ibS7m7tvwI">
                 <Link to='/output'>NEXT</Link>
             </button>
         </div>

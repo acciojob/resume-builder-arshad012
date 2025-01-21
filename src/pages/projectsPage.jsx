@@ -11,9 +11,7 @@ const ProjectsPage = () => {
             <input type="text" name="techStack" />
             <input type="text" name="description" />
 
-            <button id="next" class="qaf3t2qAXS8ibS7m7tvwI">...</button>
-
-            <button>
+            <button id="next" class="qaf3t2qAXS8ibS7m7tvwI">
                 <Link to='/social_media_section'>NEXT</Link>
             </button>
         </div>

@@ -19,6 +19,8 @@ const SkillsPage = () => {
 
             <button onClick={handleAddSkill}>Add Skill</button>
 
+            <button id="next" class="qaf3t2qAXS8ibS7m7tvwI">...</button>
+
             <Link to='/projects_section'>
                 <button id="next" class="qaf3t2qAXS8ibS7m7tvwI">NEXT</button>
             </Link>
