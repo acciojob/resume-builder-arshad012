@@ -12,10 +12,10 @@ const EducationPage = () => {
         <div>
             <h1>Add your Education Details</h1>
 
-            <input type="text" />
-            <input type="text" />
-            <input type="text" />
-            <input type="text" />
+            <input type="text" name='courseName' />
+            <input type="text" name='completionYear' />
+            <input type="text" name='collegeSchool' />
+            <input type="text" name='percentage' />
 
             <button>
                 <Link to='/skills_section'>NEXT</Link>
